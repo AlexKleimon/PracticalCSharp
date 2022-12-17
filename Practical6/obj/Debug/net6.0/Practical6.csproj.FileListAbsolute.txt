@@ -1,0 +1,15 @@
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\obj\Debug\net6.0\Practical6.csproj.AssemblyReference.cache
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\obj\Debug\net6.0\Practical6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\obj\Debug\net6.0\Practical6.AssemblyInfoInputs.cache
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\obj\Debug\net6.0\Practical6.AssemblyInfo.cs
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\obj\Debug\net6.0\Practical6.csproj.CoreCompileInputs.cache
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\bin\Debug\net6.0\Practical6.exe
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\bin\Debug\net6.0\Practical6.deps.json
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\bin\Debug\net6.0\Practical6.runtimeconfig.json
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\bin\Debug\net6.0\Practical6.dll
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\bin\Debug\net6.0\Practical6.pdb
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\obj\Debug\net6.0\Practical6.dll
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\obj\Debug\net6.0\refint\Practical6.dll
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\obj\Debug\net6.0\Practical6.pdb
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\obj\Debug\net6.0\Practical6.genruntimeconfig.cache
+C:\Users\utin9\Desktop\практика\CSharp\PracticalWork\Practical6\obj\Debug\net6.0\ref\Practical6.dll
