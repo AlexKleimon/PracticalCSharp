@@ -1,10 +1,20 @@
 public class MyMethodArray
 {
+    /// <summary>
+    /// Метод инициализации одномерного массива типа int.
+    /// </summary>
+    /// <param name="number">Количество элементов массива.</param>
+    /// <returns>Одномерный массив типа int.</returns>
     public static int[] CreatyArray(int number)
     {
         return new int[number];
     }
-
+    /// <summary>
+    /// Метод заполнения массива типа int случайными целыми числами.
+    /// </summary>
+    /// <param name="arry">Одномерный массив типа int.</param>
+    /// <param name="min">Нижняя граница диапазона значений целых случайных чисел.</param>
+    /// <param name="max">Верхняя граница диапазона значений целых случайных чисел.</param>
     public static void FillArray(int[] arry, int min, int max)
     {
         for (int i = 0; i < arry.Length; i++)
@@ -12,7 +22,10 @@ public class MyMethodArray
             arry[i] = Random.Shared.Next(min, max + 1);
         }
     }
-
+    /// <summary>
+    /// Метод заполнения одномерного массива типа int с помощью ввода значений в консоль.
+    /// </summary>
+    /// <param name="arry">Одномерный массив типа int.</param>
     public static void UserFill(int[] arry)
     {
         int count = 0;
@@ -23,14 +36,22 @@ public class MyMethodArray
             count++;
         }
     }
-
+    /// <summary>
+    /// Метод записи одномерного массива типа int в переменную типа string.
+    /// </summary>
+    /// <param name="arry">Одномерный массив типа int.</param>
+    /// <returns>Переменная типа string.</returns>
     public static string Print(int[] arry)
     {
         string Print = String.Join(" , ", arry);
         Console.Write("Массив: ");
         return $"[{Print}]";
     }
-
+    /// <summary>
+    /// Метод подсчета натуральных чисел в одномерном массиве типа int.
+    /// </summary>
+    /// <param name="arry">Одномерный массив типа int.</param>
+    /// <returns>Переменная типа string.</returns>
     public static string dictionary(int[] arry)
     {
         int count = 1; // мы пропускаем первый элемент, и т.к. как он у нас есть в массиве значит его значение в таблице 1шт.
